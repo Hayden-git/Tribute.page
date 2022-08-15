@@ -1,0 +1,27 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+        scroll-behavior: smooth;
+    }
+
+    main {
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    body {
+        background-color: #F5EEDC;
+        font-family: Trattatello, fantasy;
+        text-align: center;
+        margin: auto;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    footer {
+        background-color: #BF9270;
+        display: flex;
+        justify-content: center;
+    }
